@@ -1,6 +1,11 @@
 *.iml
 .idea/
+.gradle
 target/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+out/
+
 
 # Compiled class file
 *.class
